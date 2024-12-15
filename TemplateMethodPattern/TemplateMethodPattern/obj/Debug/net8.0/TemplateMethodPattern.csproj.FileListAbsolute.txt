@@ -1,0 +1,14 @@
+C:\Users\79069\source\repos\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\net8.0\TemplateMethodPattern.exe
+C:\Users\79069\source\repos\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\net8.0\TemplateMethodPattern.deps.json
+C:\Users\79069\source\repos\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\net8.0\TemplateMethodPattern.runtimeconfig.json
+C:\Users\79069\source\repos\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\net8.0\TemplateMethodPattern.dll
+C:\Users\79069\source\repos\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\net8.0\TemplateMethodPattern.pdb
+C:\Users\79069\source\repos\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\net8.0\TemplateMethodPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79069\source\repos\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\net8.0\TemplateMethodPattern.AssemblyInfoInputs.cache
+C:\Users\79069\source\repos\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\net8.0\TemplateMethodPattern.AssemblyInfo.cs
+C:\Users\79069\source\repos\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\net8.0\TemplateMethodPattern.csproj.CoreCompileInputs.cache
+C:\Users\79069\source\repos\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\net8.0\TemplateMethodPattern.dll
+C:\Users\79069\source\repos\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\net8.0\refint\TemplateMethodPattern.dll
+C:\Users\79069\source\repos\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\net8.0\TemplateMethodPattern.pdb
+C:\Users\79069\source\repos\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\net8.0\TemplateMethodPattern.genruntimeconfig.cache
+C:\Users\79069\source\repos\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\net8.0\ref\TemplateMethodPattern.dll
